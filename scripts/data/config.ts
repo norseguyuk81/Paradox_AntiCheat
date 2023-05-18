@@ -282,7 +282,7 @@ export default {
          * Change your password frequently and only share with trusted sources.
          */
         encryption: {
-            password: "JODA82",
+            password: "XASpLXi-rEZObocred21",
         },
     },
 };
